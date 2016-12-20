@@ -1,0 +1,25 @@
+{
+  "name": "promise-combine",
+  "version": "1.0.0",
+  "description": "combine some promise logic function into on promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.oschina.net:snownorthland/promise-combine.git"
+  },
+  "keywords": [
+    "combine",
+    "promise",
+    "join"
+  ],
+  "author": "Jimmy Wang",
+  "license": "ISC",
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "mocha": "^3.0.2",
+    "should": "^11.1.0"
+  }
+}
