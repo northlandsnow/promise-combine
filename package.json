@@ -1,6 +1,6 @@
 {
   "name": "promise-combine",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "combine some promise logic function into on promise",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "join"
   ],
   "author": "Jimmy Wang",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "istanbul": "^0.4.5",
     "mocha": "^3.0.2",
